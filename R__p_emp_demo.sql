@@ -1,4 +1,4 @@
 create or replace procedure p_emp_demo as
 begin 
-null ;
+null
 end p_emp_demo ;
